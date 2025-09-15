@@ -7,6 +7,7 @@ export function Gratitude() {
                 name="gratitude"
                 rows="4"
                 placeholder="Escribe aquí por qué estás agradecido el día de hoy..."
+                required
             ></textarea>
         </label>
     );

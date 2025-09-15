@@ -34,7 +34,7 @@ export function Meditation({ isInitiatedMeditation }) {
 
     return (
         <section>
-            <div className="relative flex justify-center items-center bg-gray-900 w-96 h-96 rounded-full">
+            <div className="relative flex justify-center items-center bg-gray-900 w-80 h-80 sm:w-96 sm:h-96 rounded-full">
                 <svg className="absolute top-0 left-0 w-full h-full" viewBox="0 0 384 384">
                     <circle className="stroke-gray-950 stroke-8 fill-transparent" r={radius} cx="192" cy="192" />
                     <circle

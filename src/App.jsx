@@ -9,7 +9,7 @@ function App() {
         <>
             <Header />
             <main>
-                <div className="max-w-screen-xl mx-auto p-2 py-2 flex flex-col gap-12">
+                <div className="max-w-screen-xl mx-auto p-4 flex flex-col gap-12">
                     <Hero />
                     <Quote />
                     <Reflection />

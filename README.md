@@ -17,4 +17,10 @@
 
 ![Hero de JustChill](./public/images/readme/hero.png)
 
-**v1.0.0**
+**v1.1.0**
+
+**Features**
+
+- Responsive.
+- Guardar reflexiones.
+- Audio relajante.

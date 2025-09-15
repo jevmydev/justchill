@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "DMSans";
+    font-style: normal;
+    font-weight: 100 900;
+    src: url("/fonts/dmsans.ttf") format("truetype");
+}
+
+:root {
+    --font-sans:
+        "DMSans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+        "Noto Color Emoji";
+}

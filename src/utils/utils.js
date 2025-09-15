@@ -21,3 +21,8 @@ export const getTodaysReflection = () => {
 export const getTodaysIntention = () => {
     return intentions[index];
 };
+
+export const getParsedDate = () => {
+    const formatter = new Intl.DateTimeFormat("es-CL", { dateStyle: "long" });
+    return formatter.format(today);
+};

@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Icono de Netlify">
 </p>
 
-![Hero de JustChill](./images/readme/hero.png)
+![Hero de JustChill](./public/images/readme/hero.png)
 
 **v1.0.0**
